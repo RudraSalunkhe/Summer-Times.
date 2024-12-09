@@ -1,4 +1,4 @@
-+ep=int(input("enter temp ="))
+temp=int(input("enter temp ="))
 if temp>25:
     print(temp,"temp is suitable.")
 else:
